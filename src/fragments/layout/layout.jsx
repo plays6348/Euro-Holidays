@@ -23,7 +23,7 @@ export default function Layout({ children, title }) {
       <Header />
       <div className="min-h-[50vh]">{children}</div>
       <div className="fixed flex flex-col gap-2 bottom-6 left-6 z-10">
-      <a href="https://wa.me/442080048744?text=Hi%20Euro%20Holidays%20team%2C%20I%E2%80%99m%20interested%20in%20your%20travel%20packages.%20Can%20you%20please%20help%20me%20with%20more%20details%3F" target="_blank" rel="noreferrer">
+      <a href="https://wa.me/+447577328389?text=Hi%20Euro%20Holidays%20team%2C%20I%E2%80%99m%20interested%20in%20your%20travel%20packages.%20Can%20you%20please%20help%20me%20with%20more%20details%3F" target="_blank" rel="noreferrer">
 
           <button
             className="bg-green-500 text-white p-4 rounded-full shadow-xl hover:bg-green-600 focus:outline-none focus:ring focus:border-green-300 transition duration-300"
@@ -35,7 +35,7 @@ export default function Layout({ children, title }) {
             <AiOutlineWhatsApp size={24} />
           </button>
         </a>
-        <a href="tel:02080048744">
+        <a href="tel:020 8145 4449">
           <button
             className="bg-primary/80 text-white p-4 rounded-full shadow-xl hover:bg-primary focus:outline-none focus:ring focus:border-primary transition duration-300"
             onClick={() => {

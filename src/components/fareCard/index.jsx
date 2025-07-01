@@ -80,9 +80,9 @@ export default function FareCard({ data, index }) {
           />
         </div>
         <div className="flex gap-2">
-          <a href={`tel:02080048744`}>
+          <a href={`tel:020 8145 4449`}>
             <Button variant="outlined" style={{ fontWeight: "bold" }}>
-              02080048744
+              020 8145 4449
             </Button>
           </a>
           <div>

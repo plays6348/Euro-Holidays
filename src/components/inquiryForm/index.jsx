@@ -161,7 +161,7 @@ export function InquiryForm() {
                   <HiPhoneIncoming className="h-7 w-6" aria-hidden="true" />
                 </dt>
                 <dd>
-                  <a href="tel:02080048744">02080048744</a>
+                  <a href="tel:020 8145 4449">020 8145 4449</a>
                 </dd>
               </div>
               <div className="flex gap-x-4 hover:text-primary cursor-pointer">

@@ -219,7 +219,7 @@ export function TermsConditions() {
           us: By visiting this page on our website:euroholidays.co.uk
         </p>
 
-        <p class="mb-4"> By phone number: 02080048744</p>
+        <p class="mb-4"> By phone number: 020 8145 4449</p>
       </div>
     </Layout>
   );
