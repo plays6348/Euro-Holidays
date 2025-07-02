@@ -9,6 +9,7 @@
 /coverage
 
 # production
+!build/static**
 /public
 /src
 /.gitattributes
