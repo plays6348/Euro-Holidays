@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/git@github.com:plays6348/Euro-Holidays.git/static/css/main.125e650c.css",
+    "main.js": "/git@github.com:plays6348/Euro-Holidays.git/static/js/main.35f07c2f.js",
+    "static/js/787.cdcd6bc0.chunk.js": "/git@github.com:plays6348/Euro-Holidays.git/static/js/787.cdcd6bc0.chunk.js",
+    "static/media/air1.png": "/git@github.com:plays6348/Euro-Holidays.git/static/media/air1.f3134731cf79ee088a22.png",
+    "static/media/Logo1.svg": "/git@github.com:plays6348/Euro-Holidays.git/static/media/Logo1.9e1111f850f7e8f50bffc3f4abb1d51e.svg",
+    "static/media/logoblue.svg": "/git@github.com:plays6348/Euro-Holidays.git/static/media/logoblue.60976d03076cfd88351ce4bf720bc328.svg",
+    "static/media/logoblack.svg": "/git@github.com:plays6348/Euro-Holidays.git/static/media/logoblack.293ae22ae5193ccd432698f85cec127d.svg",
+    "index.html": "/git@github.com:plays6348/Euro-Holidays.git/index.html",
+    "main.125e650c.css.map": "/git@github.com:plays6348/Euro-Holidays.git/static/css/main.125e650c.css.map",
+    "main.35f07c2f.js.map": "/git@github.com:plays6348/Euro-Holidays.git/static/js/main.35f07c2f.js.map",
+    "787.cdcd6bc0.chunk.js.map": "/git@github.com:plays6348/Euro-Holidays.git/static/js/787.cdcd6bc0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.125e650c.css",
+    "static/js/main.35f07c2f.js"
+  ]
+}
