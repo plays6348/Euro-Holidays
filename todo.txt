@@ -1,7 +1,0 @@
-talk to chat
-Text on searchengine
-
-
-// replace form with fields
-// filters
-// color change of the prices
